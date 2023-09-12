@@ -86,8 +86,4 @@ PresharedKey = ${pre}
 AllowedIPs = 10.254.132.100/32
 # ${the_client} end
 " | tee -a wg0.conf
-#unsure of how to copy to /etc/wireguard
-wg0.conf>/etc/wireguard
-# returns unable to modify interface: no such device
-wg addconf wg0 <(wg-quick strip wg0)
 

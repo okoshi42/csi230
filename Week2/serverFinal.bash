@@ -59,3 +59,4 @@ PostDown = iptables -D FORWARD -i wg0 -j ACCEPT; iptables -t nat -D POSTROUTING 
 ListenPort = ${lport}
 PrivateKey = ${p}
 " > wg0.conf
+echo "${pFile}" > /etc/wireguard/wg0.conf
