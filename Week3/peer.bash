@@ -26,14 +26,18 @@ then
 	echo "The file ${pFile} already exists."
 	echo -n "Do you want to overwrite it? [y/N] "
 	read to_overwrite
-
+	
 	if [[ "${to_overwrite}" == "N" || "${to_overwrite}" == "" || "${to_overwrite}" == "n" ]]
 	then
 		echo "Exiting..."
 		exit 0
 	elif [[ "${to_overwrite}" == "y" ]]
 	then
-		echo "Creating the wireguard configuration file..."
+		if [[ "grep ${the_client} wg0.conf" != "" ]]
+		then
+			sed -i "/# ${the_client} begin/,/# ${the_client} end/d" wg0.conf
+		fi
+				echo "Creating the wireguard configuration file..."
 	#If they dont specify y/N then error
 	else
 		echo "Invalid value"
