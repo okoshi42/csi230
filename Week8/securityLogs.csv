@@ -1,0 +1,321 @@
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505061","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505060","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505059","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505058","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505057","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505056","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505055","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505054","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505053","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505052","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505051","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505050","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505049","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505048","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505047","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505046","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505045","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505044","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505043","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505042","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505041","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505040","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505039","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505038","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505037","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505036","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505035","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505034","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505033","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505032","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505031","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
+"5379","DESKTOP-9EVQPKD","System.Byte[]","505030","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2170208184-1697951808-394892290-1001
+	Account Name:		jokos
+	Account Domain:		DESKTOP-9EVQPKD
+	Logon ID:		0x1c1dfc
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/20/2023 2:36:29 PM","10/20/2023 2:36:29 PM",,,
