@@ -1,0 +1,2 @@
+﻿Get-Process | Select-Object ProcessName, Path, ID | export-csv -Path "C:\Users\jokos\csi230\Week9\myProcesses.csv" -NoTypeInformation
+Get-Service | Where { $_.Status -eq "Running"} | Export-Csv -Path  "C:\Users\jokos\csi230\Week9\myServices.csv" -NoTypeInformation
